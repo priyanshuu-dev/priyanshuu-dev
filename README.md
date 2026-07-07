@@ -1,110 +1,59 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&lines=Priyanshu;Computer+Science+Student;Data+Engineering+Enthusiast;Backend+Developer;Python+•+SQL+•+DSA;Learning+One+Algorithm+at+a+Time" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Priyanshu;Computer+Science+Student;Data+Engineering+Enthusiast;Backend+Developer;Python+%7C+SQL+%7C+DSA;Learning+One+Algorithm+at+a+Time"/>
 
 <p>
-<img src="https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
-&nbsp;
+<img src="https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&logo=academia"/>
 <img src="https://img.shields.io/badge/Focus-Data_Engineering-6366F1?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Bihar,_India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Bihar,_India-4F46E5?style=flat-square&logo=googlemaps"/>
 </p>
 
 <p>
-
-<a href="https://github.com/priyanshuu-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://github.com/priyanshuu-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/priyanshu-raj-b44129309"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:rajrthp123@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://leetcode.com/priyanshuusinghh"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuu-dev&style=flat-square&color=7C3AED&label=Profile+Views"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/followers/priyanshuu-dev?style=flat-square&color=6366F1&label=Followers"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/stars/priyanshuu-dev?style=flat-square&color=A78BFA&label=Stars"/>
+<img src="https://img.shields.io/github/followers/priyanshuu-dev?style=flat-square&label=Followers"/>
+<img src="https://img.shields.io/github/stars/priyanshuu-dev?style=flat-square&label=Stars"/>
 
 </div>
 
 ---
 
-# About Me
+# About
 
-I'm a **Computer Science student** passionate about building scalable software through strong fundamentals in **Data Structures & Algorithms**, **Backend Development**, and **Data Engineering**.
+Computer Science student focused on **Data Engineering**, **Backend Development**, and **Data Structures & Algorithms**. I enjoy building practical software using Python and SQL while strengthening my engineering fundamentals through consistent LeetCode practice and real-world projects.
 
-I enjoy solving algorithmic problems, designing efficient solutions, and building projects that combine software engineering with data-driven applications.
-
-Currently I'm focused on strengthening my backend skills using **Python**, **SQL**, and **Flask** while consistently solving **LeetCode** problems and expanding my understanding of databases and system design.
-
-### Open To
-
+**Open To**
 - Software Engineering Internships
-- Backend Development Roles
-- Data Engineering Opportunities
-- Open Source Collaboration
+- Backend Development
+- Data Engineering
+- Open Source
 
 ---
 
 # Tech Stack
 
-## Languages
+### Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark"/></p>
 
+### Frontend
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/></p>
+
+### Backend & Databases
+<p align="center"><img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,git,github,vscode,postman&theme=dark"/></p>
+
+### Libraries
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark"/>
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&theme=dark"/>
-</p>
-
-## Data Science & Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-</p>
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 </p>
 
 ---
@@ -112,12 +61,129 @@ Currently I'm focused on strengthening my backend skills using **Python**, **SQL
 # AI / Data Engineering
 
 | Domain | Level | Details |
-|:---|:---:|:---|
-| Python | Advanced | Backend development, automation, scripting |
-| SQL | Intermediate | Queries, joins, indexing, optimization |
-| Machine Learning | Intermediate | Scikit-Learn, XGBoost, model building |
-| Data Engineering | Learning | ETL, pipelines, databases |
-| Backend Development | Learning | Flask APIs, REST services |
-| Data Structures & Algorithms | Daily Practice | LeetCode, Binary Search, Sliding Window, Two Pointers |
+|---|---|---|
+| Python | Advanced | Automation, scripting, backend |
+| SQL | Intermediate | Joins, queries, optimization |
+| Machine Learning | Intermediate | Scikit-Learn, XGBoost |
+| Data Engineering | Learning | ETL, pipelines |
+| DSA | Daily Practice | LeetCode |
 
 ---
+
+# Featured Projects
+
+<details open>
+<summary><b>🚦 Traffic Prediction Dashboard</b></summary>
+
+| Attribute | Details |
+|---|---|
+| Stack | Python, Flask, XGBoost, Pandas, HTML, CSS, JavaScript |
+| Deployment | Render |
+| Repository | https://github.com/priyanshuu-dev/traffic-prediction-ml |
+
+<div align="center">
+<a href="https://github.com/priyanshuu-dev/traffic-prediction-ml"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/></a>
+</div>
+
+</details>
+
+<details>
+<summary><b>💻 DSA Practice</b></summary>
+
+| Attribute | Details |
+|---|---|
+| Language | Python |
+| Topics | Arrays, Binary Search, Sliding Window, Two Pointers |
+| Repository | https://github.com/priyanshuu-dev/DSA-PRACTICE |
+
+<div align="center">
+<a href="https://github.com/priyanshuu-dev/DSA-PRACTICE"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/></a>
+</div>
+
+</details>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/priyanshuusinghh"><img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<a href="https://github.com/priyanshuu-dev/DSA-PRACTICE"><img src="https://img.shields.io/badge/DSA-Repository-7C3AED?style=for-the-badge&logo=github"/></a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuu-dev&theme=tokyonight"/>
+<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshuu-dev&theme=tokyonight&no-frame=true"/>
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Backend Development
+  - Data Engineering
+
+Building:
+  - Python Projects
+  - REST APIs
+
+Exploring:
+  - ETL Pipelines
+  - System Design
+
+Open To:
+  - Software Engineering Internships
+  - Backend Roles
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:rajrthp123@gmail.com"><img src="https://img.shields.io/badge/Gmail-rajrthp123%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
+
+<a href="https://linkedin.com/in/priyanshu-raj-b44129309"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+
+<a href="https://github.com/priyanshuu-dev"><img src="https://img.shields.io/badge/GitHub-priyanshuu--dev-181717?style=for-the-badge&logo=github"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Building scalable software one algorithm at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
