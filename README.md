@@ -125,12 +125,48 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-d
 </div>
 
 ---
+---
+
+# 💻 LeetCode Journey
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshuu-dev&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+<a href="https://leetcode.com/priyanshuusinghh">
+
+<img src="https://leetcard.jacoblin.cool/priyanshuusinghh?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/priyanshuusinghh">
+<img src="https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
+
+### 🚀 Current Progress
+
+- 🔥 Solving DSA problems consistently
+- 📚 Practicing LeetCode every week
+- 🎯 Focus Areas:
+  - Binary Search
+  - Two Pointers
+  - Sliding Window
+  - Arrays & Strings
+- 💡 Learning one algorithm at a time
+
+---
+<div align="center">
+
+<a href="https://github.com/priyanshuu-dev/DSA-PRACTICE">
+
+<img src="https://img.shields.io/badge/DSA_Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
 
 # 📈 Contribution Graph
 
