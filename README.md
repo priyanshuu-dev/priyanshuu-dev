@@ -112,7 +112,7 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev...&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <img height="180em"
 src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_border=true"/>
@@ -120,7 +120,7 @@ src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_
 <br><br>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
