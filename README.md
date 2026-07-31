@@ -56,6 +56,8 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask&theme=dark"/>
 </p>
+<p align="center"> <img src="https://skillicons.dev"/> </p>
+
 
 ### Databases
 <p align="center">
