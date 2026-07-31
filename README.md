@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Priyanshu;Computer+Science+Student;Data+Engineering+Enthusiast;Backend+Developer;Python+%7C+SQL+%7C+DSA;Learning+One+Algorithm+at+a+Time"/>
 
 <h2>Hi 👋 I'm Priyanshu</h2>
-<h3>Computer Science Student • Data Engineering Enthusiast • Backend Developer</h3>
+<h3>Learning, building, and growing into a better Software Engineer</h3>
 
 <p>
 <img src="https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&logo=academia"/>
@@ -28,9 +28,9 @@
 
 # About
 
-Computer Science student focused on **Data Engineering**, **Backend Development**, and **Data Structures & Algorithms**.
+Computer Science student focused on Data Engineering, Backend Development, and Data Structures & Algorithms.
 
-I enjoy building practical software with **Python** and **SQL**, strengthening my problem-solving skills through **daily LeetCode practice**, and creating real-world backend projects.
+Currently strengthening my fundamentals, building real-world projects, and improving my problem-solving skills with the goal of becoming a well-rounded Software Engineer.
 
 ### Open To
 - Software Engineering Internships
@@ -216,7 +216,7 @@ Exploring:
 
 <div align="center">
 
-### Building scalable software, one algorithm at a time.
+### Building strong foundations in Backend Development, Data Engineering & DSA to become a better Software Engineer.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
