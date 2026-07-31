@@ -54,11 +54,9 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev"/>
+  <img src="https://skillicons.dev" alt="Flask and Django" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev"/>
-</p>
+
 
 
 ### Databases
