@@ -79,7 +79,7 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 
 ---
 
-# 📊 Core Skills
+#  Core Skills
 
 | Skill | Level |
 |------|------|
