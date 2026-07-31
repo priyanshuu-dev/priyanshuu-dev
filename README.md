@@ -26,7 +26,7 @@
 
 ---
 
-# 🚀 About
+# About
 
 Computer Science student focused on **Data Engineering**, **Backend Development**, and **Data Structures & Algorithms**.
 
@@ -40,7 +40,7 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 <p align="center">
@@ -91,15 +91,15 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
-## 🚦 Traffic Prediction Dashboard
+##  Traffic Prediction Dashboard
 
 - **Stack:** Python, Flask, XGBoost, Pandas, HTML, CSS, JavaScript
 - **Deployment:** Render
 - **Repository:** https://github.com/priyanshuu-dev/traffic-prediction-ml
 
-## 💻 DSA Practice
+## DSA Practice
 
 - **Language:** Python
 - **Topics:** Arrays, Binary Search, Sliding Window, Two Pointers
@@ -107,7 +107,7 @@ I enjoy building practical software with **Python** and **SQL**, strengthening m
 
 ---
 
-# 🏆 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -127,7 +127,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 ---
 ---
 
-# 💻 LeetCode Journey
+#  LeetCode Journey
 
 <div align="center">
 
@@ -145,16 +145,16 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 
 </div>
 
-### 🚀 Current Progress
+###  Current Progress
 
-- 🔥 Solving DSA problems consistently
-- 📚 Practicing LeetCode every week
-- 🎯 Focus Areas:
+-  Solving DSA problems consistently
+-  Practicing LeetCode every week
+-  Focus Areas:
   - Binary Search
   - Two Pointers
   - Sliding Window
   - Arrays & Strings
-- 💡 Learning one algorithm at a time
+-  Learning one algorithm at a time
 
 ---
 <div align="center">
@@ -168,7 +168,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 </div>
 
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 
 <div align="center">
@@ -178,7 +178,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 </div>
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 ```yaml
 Learning:
@@ -198,7 +198,7 @@ Exploring:
 
 ---
 
-# 🤝 Connect
+#  Connect
 
 <div align="center">
 
