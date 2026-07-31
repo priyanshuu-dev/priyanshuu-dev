@@ -68,37 +68,6 @@ Currently strengthening my fundamentals, building real-world projects, and impro
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 <br><br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-
-#  Core Skills
-
-| Skill | Level |
-|------|------|
-| Python | Advanced |
-| SQL | Intermediate |
-| Machine Learning | Intermediate |
-| Data Engineering | Learning |
-| DSA | Daily Practice |
-
----
-
-#  Featured Projects
-
-##  Traffic Prediction Dashboard
-
-- **Stack:** Python, Flask, XGBoost, Pandas, HTML, CSS, JavaScript
-- **Deployment:** Render
-- **Repository:** https://github.com/priyanshuu-dev/traffic-prediction-ml
-
-## DSA Practice
-
-- **Language:** Python
-- **Topics:** Arrays, Binary Search, Sliding Window, Two Pointers
-- **Repository:** https://github.com/priyanshuu-dev/DSA-PRACTICE
-
----
 
 #  GitHub Analytics
 
@@ -138,18 +107,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 
 </div>
 
-###  Current Progress
-
--  Solving DSA problems consistently
--  Practicing LeetCode every week
--  Focus Areas:
-  - Binary Search
-  - Two Pointers
-  - Sliding Window
-  - Arrays & Strings
--  Learning one algorithm at a time
-
----
 <div align="center">
 
 <a href="https://github.com/priyanshuu-dev/DSA-PRACTICE">
@@ -169,27 +126,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&theme=tokyo-night&hide_border=true"/>
 
 </div>
----
 
-#  Current Focus
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Backend Development
-  - Data Engineering
-  - SQL Optimization
-
-Building:
-  - Python Projects
-  - REST APIs
-
-Exploring:
-  - ETL Pipelines
-  - System Design
-```
-
----
 
 #  Connect
 
