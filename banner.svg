@@ -1,1 +1,290 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none"
+xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520">
+    <stop stop-color="#05030A"/>
+    <stop offset="0.5" stop-color="#10051F"/>
+    <stop offset="1" stop-color="#05030A"/>
+  </linearGradient>
+
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#D8B4FE"/>
+    <stop offset="0.45" stop-color="#A855F7"/>
+    <stop offset="1" stop-color="#6D28D9"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="strongGlow">
+    <feGaussianBlur stdDeviation="18" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- BACKGROUND -->
+
+<rect width="1600" height="520" fill="url(#bg)"/>
+
+<!-- STARS -->
+
+<g fill="#A855F7">
+
+<circle cx="120" cy="80" r="3"/>
+<circle cx="230" cy="170" r="2"/>
+<circle cx="370" cy="95" r="2"/>
+<circle cx="510" cy="60" r="3"/>
+<circle cx="700" cy="130" r="2"/>
+<circle cx="890" cy="70" r="3"/>
+<circle cx="1120" cy="110" r="2"/>
+<circle cx="1320" cy="75" r="3"/>
+<circle cx="1490" cy="180" r="2"/>
+
+</g>
+
+<!-- GRID LINES LEFT -->
+
+<g opacity="0.35" stroke="#7C3AED">
+
+<path d="M40 80H350"/>
+<path d="M40 120H300"/>
+<path d="M40 160H250"/>
+
+<path d="M70 360H340"/>
+<path d="M70 400H290"/>
+
+</g>
+
+<!-- LEFT CODE PANEL -->
+
+<rect
+x="65"
+y="105"
+width="300"
+height="220"
+rx="16"
+fill="#090611"
+stroke="#7C3AED"
+stroke-width="2"
+/>
+
+<text
+x="100"
+y="150"
+fill="#A78BFA"
+font-size="18"
+font-family="monospace">
+
+public class Developer
+
+</text>
+
+<text
+x="100"
+y="190"
+fill="#F472B6"
+font-size="16"
+font-family="monospace">
+
+learn();
+
+</text>
+
+<text
+x="100"
+y="225"
+fill="#60A5FA"
+font-size="16"
+font-family="monospace">
+
+build();
+
+</text>
+
+<text
+x="100"
+y="260"
+fill="#34D399"
+font-size="16"
+font-family="monospace">
+
+repeat();
+
+</text>
+
+<!-- TOP TEXT -->
+
+<text
+x="800"
+y="85"
+text-anchor="middle"
+fill="#D8B4FE"
+font-size="23"
+font-family="monospace"
+letter-spacing="12">
+
+CODE • LEARN • BUILD • REPEAT
+
+</text>
+
+<!-- CAT GLOW -->
+
+<ellipse
+cx="800"
+cy="270"
+rx="190"
+ry="170"
+fill="#7C3AED"
+opacity="0.18"
+filter="url(#strongGlow)"
+>
+
+<animate
+attributeName="rx"
+values="170;210;170"
+dur="4s"
+repeatCount="indefinite"
+/>
+
+</ellipse>
+
+<!-- CAT IMAGE -->
+
+<image
+href="./cat.png"
+x="610"
+y="100"
+width="380"
+height="330"
+preserveAspectRatio="xMidYMid meet">
+
+<animate
+attributeName="y"
+values="100;88;100"
+dur="4s"
+repeatCount="indefinite"
+/>
+
+</image>
+
+<!-- GLOWING FRAME -->
+
+<rect
+x="555"
+y="95"
+width="490"
+height="350"
+rx="28"
+stroke="#8B5CF6"
+stroke-width="2"
+opacity="0.7"
+filter="url(#glow)"
+>
+
+<animate
+attributeName="opacity"
+values="0.4;1;0.4"
+dur="3s"
+repeatCount="indefinite"
+/>
+
+</rect>
+
+<!-- BACKEND DEVELOPER -->
+
+<rect
+x="570"
+y="450"
+width="460"
+height="55"
+rx="14"
+fill="#12091F"
+stroke="#A855F7"
+stroke-width="2"
+/>
+
+<text
+x="800"
+y="487"
+text-anchor="middle"
+fill="#FFFFFF"
+font-size="25"
+font-weight="bold"
+font-family="monospace"
+letter-spacing="8">
+
+BACKEND DEVELOPER
+
+</text>
+
+<!-- RIGHT SIDE CODE SYMBOL -->
+
+<g filter="url(#strongGlow)">
+
+<text
+x="1290"
+y="270"
+text-anchor="middle"
+fill="url(#purple)"
+font-size="150"
+font-weight="bold"
+font-family="monospace">
+
+&lt;/&gt;
+
+</text>
+
+</g>
+
+<!-- RIGHT CIRCLE -->
+
+<ellipse
+cx="1290"
+cy="245"
+rx="190"
+ry="135"
+stroke="#8B5CF6"
+stroke-width="2"
+stroke-dasharray="8 10"
+opacity="0.7"
+transform="rotate(-15 1290 245)"
+>
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="-15 1290 245"
+to="345 1290 245"
+dur="20s"
+repeatCount="indefinite"
+/>
+
+</ellipse>
+
+<!-- BOTTOM TECH -->
+
+<text
+x="800"
+y="390"
+text-anchor="middle"
+fill="#C4B5FD"
+font-size="22"
+font-family="monospace"
+letter-spacing="10">
+
+JAVA • SPRING BOOT • DSA
+
+</text>
+
+</svg>
