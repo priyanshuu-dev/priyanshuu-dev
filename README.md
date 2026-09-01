@@ -163,11 +163,17 @@ public class Priyanshu {
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+alt="GitHub Stats"
+/>
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img 
+height="180em"
+src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -175,16 +181,14 @@ src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages"
+/>
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:EC4899&height=4" width="100%"/>
-
-</div>
 
 # Contribution Activity
 
