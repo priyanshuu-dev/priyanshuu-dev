@@ -1,342 +1,331 @@
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:312E81,70:7C3AED,100:06B6D4&height=260&section=header&text=PRIYANSHU&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20ASPIRANT&descAlignY=58&descSize=18&descColor=C4B5FD"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,35:3B0764,65:7C3AED,100:0D0618&height=240&section=header&text=PRIYANSHU&fontSize=70&fontColor=F5F3FF&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20DSA&descAlignY=58&descSize=18&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=CODE+%E2%80%A2+LEARN+%E2%80%A2+BUILD+%E2%80%A2+REPEAT;Building+Backend+Systems+One+Project+at+a+Time;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+DSA+%E2%80%A2+Problem+Solving"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I'm+Priyanshu;Building+Backend+Projects+With+Java;Learning+Spring+Boot+One+Step+At+A+Time;Solving+Problems+With+DSA"
-/>
-
-<br/><br/>
-
-<p>
-<img src="https://img.shields.io/badge/Computer_Science-Student-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Backend_Development-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Currently-Spring_Boot-22C55E?style=for-the-badge"/>
-</p>
-
-<br/>
+<br><br>
 
 <a href="https://github.com/priyanshuu-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-priyanshuu--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/priyanshu-raj-b44129309">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajrthp123@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/priyanshuusinghh">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshuu-dev&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=priyanshuu-dev&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+# Hi, I'm Priyanshu
 
-# About Me
+<table>
+<tr>
 
-```java
-public class Priyanshu {
+<td width="58%" valign="top">
 
-    String role = "Aspiring Backend Developer";
+## Backend Developer | CS Student
 
-    String[] learning = {
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "Data Structures & Algorithms"
-    };
+I am a Computer Science student focused on building strong foundations in backend development, problem-solving, and real-world software engineering.
 
-    String goal =
-        "Build scalable applications and grow as a Software Engineer";
-}
-```
+Currently, I am learning by building projects, strengthening my Java and Spring Boot skills, and consistently practicing Data Structures and Algorithms.
 
-<br/>
+### Current Focus
 
-I am a Computer Science student focused on backend development and problem-solving. I enjoy learning how applications work behind the scenes and building projects that turn concepts into real systems.
+- Building backend applications with Java and Spring Boot
+- Solving DSA problems consistently
+- Improving problem-solving and clean coding skills
+- Building real-world projects
+- Exploring new technologies
+- Working towards becoming a strong Software Engineer
 
-<br/>
+### Open To
 
-- Building projects with Java and Spring Boot
-- Strengthening backend fundamentals
-- Practicing Data Structures and Algorithms
-- Learning databases and API development
-- Exploring real-world software architecture
+- Software Engineering Internships
+- Backend Development Opportunities
+- Open Source Contributions
+- Collaborating with other developers and learners
 
-<br/><br/>
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://github.com/priyanshuu-dev.png" width="220"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=400&lines=Currently+Learning;Java;Spring+Boot;DSA;Backend+Development"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-<br/><br/>
-<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:7C3AED,100:0f0c29&height=3&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0618,50:7C3AED,100:0D0618&height=4" width="100%"/>
+
+</div>
 
 # Tech Stack & Current Learning
 
+<div align="center">
+
 <br>
 
-<img 
+<img
   src="./Skills_Animation_Clear_Moving.gif"
   alt="Animated Tech Stack"
   width="100%"
 />
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <br><br>
 
-### Current Focus
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Backend_Development-Java_%7C_Spring_Boot-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-DSA-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Building-Real_World_Projects-8B5CF6?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DaVinci_Resolve-1A1A1A?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<h3>Currently Learning</h3>
-
-<ul>
-  <li>Building backend applications with Java and Spring Boot</li>
-  <li>Strengthening Data Structures and Algorithms</li>
-  <li>Learning how real-world backend systems are designed</li>
-  <li>Improving problem-solving and clean coding skills</li>
-  <li>Exploring creative tools and video editing alongside development</li>
-</ul>
-
-<h3>Goals</h3>
-
-<ul>
-  <li>Become confident in backend development and system design fundamentals</li>
-  <li>Build strong real-world projects using Spring Boot</li>
-  <li>Stay consistent with DSA and problem-solving</li>
-  <li>Contribute to open-source projects</li>
-  <li>Keep improving as a well-rounded software developer</li>
-</ul>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7C3AED,100:302b63&height=3&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0618,50:7C3AED,100:0D0618&height=4" width="100%"/>
 
 </div>
-
-<!-- ================== END TECH STACK ================== -->
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript&theme=dark"/>
-
-<br/><br/><br/>
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring,flask,django&theme=dark"/>
-
-<br/><br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
-
-<br/><br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
-
-# Current Focus
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=60&lines=Java+and+Spring+Boot;Backend+Development;Data+Structures+and+Algorithms;Building+Real+World+Projects"
-/>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-| Backend Development | Problem Solving |
-|:---:|:---:|
-| Spring Boot | DSA Patterns |
-| REST APIs | Easy and Medium Problems |
-| Databases | Interview Preparation |
-| Backend Architecture | Consistent Practice |
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
 
 # GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuu-dev&theme=transparent"
-width="100%"
-alt="GitHub Profile Details"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuu-dev&theme=tokyonight"
-width="48%"
-alt="GitHub Stats"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshuu-dev&theme=tokyonight&utcOffset=5.5"
-width="48%"
-alt="Productive Time"
+  height="180em"
+  src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_border=true"
 />
 
-<br/><br/>
+<br><br>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuu-dev&theme=tokyonight"
-width="48%"
-alt="Repositories Per Language"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuu-dev&theme=tokyonight"
-width="48%"
-alt="Most Commit Language"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 </div>
 
-<br/><br/>
+<br>
 
----
+<div align="center">
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0618,50:7C3AED,100:0D0618&height=4" width="100%"/>
+
+</div>
+
 # Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-
-</picture>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=A78BFA&area=true&hide_border=true"
+  width="100%"
+/>
 
 </div>
 
-# LeetCode
+<br>
+
+# Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
+</div>
+
+---
+
+# DSA Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/priyanshuusinghh">
 
 <img
-src="https://leetcard.jacoblin.cool/priyanshuusinghh?theme=dark&font=JetBrains+Mono&ext=contest"
+  src="https://leetcard.jacoblin.cool/priyanshuusinghh?theme=dark&font=JetBrains+Mono&ext=contest"
+  alt="LeetCode Stats"
 />
 
 </a>
 
-<br/><br/>
+<br><br>
 
-<a href="https://leetcode.com/priyanshuusinghh">
+<a href="https://github.com/priyanshuu-dev/DSA-PRACTICE">
 
 <img
-src="https://img.shields.io/badge/View_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  src="https://img.shields.io/badge/EXPLORE_MY_DSA_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"
 />
 
 </a>
 
 </div>
 
-<br/><br/>
+---
+
+# Currently Working On
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+## Backend Development
+
+Java
+
+Spring Boot
+
+REST APIs
+
+SQL
+
+Project Development
+
+Clean Code
+
+</td>
+
+<td width="50%" align="center">
+
+## Problem Solving
+
+Data Structures
+
+Algorithms
+
+LeetCode
+
+Interview Preparation
+
+Problem Solving
+
+Consistency
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<br/><br/>
+# Goals
 
-# Connect
+- Build strong real-world backend projects
+- Become highly confident with Java and Spring Boot
+- Improve DSA problem-solving consistency
+- Learn system design fundamentals
+- Contribute to open-source projects
+- Keep improving as a software developer
+
+---
+
+# Connect With Me
 
 <div align="center">
 
 <a href="mailto:rajrthp123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://linkedin.com/in/priyanshu-raj-b44129309">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/priyanshuu-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://leetcode.com/priyanshuusinghh">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </div>
 
-<br/><br/><br/>
+<br>
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building.+Learning.+Improving.;Backend+Development+%7C+Java+%7C+Spring+Boot"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=The+best+way+to+predict+your+future+is+to+build+it.;Keep+coding.+Keep+building.+Keep+growing."
 />
 
-<br/><br/>
+<br><br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:312E81,70:7C3AED,100:06B6D4&height=170&section=footer"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0618,40:3B0764,70:7C3AED,100:0D0618&height=150&section=footer" width="100%"/>
 
 </div>
