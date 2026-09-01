@@ -156,7 +156,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuu-dev&theme=tokyonight"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuu-dev&theme=transparent"
 width="100%"
 alt="GitHub Profile Details"
 />
@@ -202,19 +202,11 @@ alt="Most Commit Language"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=312E81&hide_border=true"
-width="100%"
-alt="GitHub Contribution Graph"
+src="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake Animation"
 />
 
 </div>
-
-<br/><br/>
-
----
-
-<br/><br/>
-
 # DSA Practice
 
 <div align="center">
