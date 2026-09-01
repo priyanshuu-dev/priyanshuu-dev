@@ -162,22 +162,12 @@ repeatCount="indefinite"
 <!-- CAT IMAGE -->
 
 <image
-href="./cat.png"
+href="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/main/cat.png"
 x="610"
 y="100"
 width="380"
 height="330"
 preserveAspectRatio="xMidYMid meet">
-
-<animate
-attributeName="y"
-values="100;88;100"
-dur="4s"
-repeatCount="indefinite"
-/>
-
-</image>
-
 <!-- GLOWING FRAME -->
 
 <rect
