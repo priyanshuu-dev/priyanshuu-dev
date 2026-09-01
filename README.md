@@ -36,16 +36,9 @@
 
 # About Me
 
-<table>
-<tr>
-
-<td width="62%" valign="top">
-
-## Backend Developer | CS Student
-
 I am a Computer Science student focused on backend development, problem-solving, and building real-world software projects.
 
-My current journey is centered around strengthening my fundamentals and becoming a better software engineer through consistent practice and project building.
+My current journey is centered around strengthening my fundamentals, improving my Java and Spring Boot skills, and consistently practicing Data Structures and Algorithms.
 
 ### What I'm Working On
 
@@ -62,29 +55,6 @@ My current journey is centered around strengthening my fundamentals and becoming
 - Backend Development Opportunities
 - Open Source Contributions
 - Collaborating with developers and learners
-
-</td>
-
-<td width="38%" align="center">
-
-<img src="https://github.com/priyanshuu-dev.png" width="220"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=600&color=FF7A18&center=true&vCenter=true&width=380&lines=JAVA;SPRING+BOOT;DSA;BACKEND+DEVELOPMENT;BUILDING+PROJECTS"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D00,50:FF8C00,100:FFD166&height=4" width="100%"/>
-
-<br>
-
-<div align="center">
 
 # Tech Stack & Current Learning
 
@@ -150,7 +120,52 @@ width="100%"
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D00,50:FF8C00,100:FFD166&height=4" width="100%"/>
 
 <br>
+---
 
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=priyanshuu-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em"
+src="https://streak-stats.demolab.com?user=priyanshuu-dev&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+# Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&theme=tokyo-night&hide_border=true"
+width="100%"
+alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+# Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</div>
+
+---
+---
+---
 # Current Focus
 
 <div align="center">
