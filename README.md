@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120B07,25:3D1708,50:FF5F1F,75:FF8C00,100:120B07&height=280&section=header&text=PRIYANSHU&fontSize=78&fontColor=FFFFFF&fontAlignY=38&stroke=FF6A00&strokeWidth=2&animation=fadeIn&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descAlignY=60&descSize=19&descColor=FFD0A3" width="100%"/>
+<div align="center">
+
+<img src="./banner.svg" width="100%" alt="Priyanshu Banner"/>
+
+</div>
 
 <br>
 
