@@ -86,9 +86,33 @@ I am a Computer Science student focused on backend development and problem-solvi
 
 <br/><br/>
 
-# Tech Stack
+# Tech Stack & Current Learning
 
 <div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=65&lines=My+Tech+Stack;Java+%7C+Python+%7C+C%2B%2B;Spring+Boot+%7C+SQL+%7C+Git;Always+Learning+Something+New"
+/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=spring,flask,django,mysql,sqlite&theme=dark&perline=5"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,html,css&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Backend+Development;Spring+Boot+and+REST+APIs;Data+Structures+and+Algorithms;Building+Real+World+Projects"
+/>
+
+</div>
 
 <br/>
 
