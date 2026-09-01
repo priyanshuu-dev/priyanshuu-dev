@@ -85,7 +85,6 @@ I am a Computer Science student focused on backend development and problem-solvi
 ---
 
 <br/><br/>
-
 # Tech Stack & Current Learning
 
 <div align="center">
@@ -106,7 +105,10 @@ I am a Computer Science student focused on backend development and problem-solvi
     alt="Animated Tech Stack"
     src="./Skills_Animation_Dark.gif"
   />
+
 </picture>
+
+</div>
 
 </div>
 
