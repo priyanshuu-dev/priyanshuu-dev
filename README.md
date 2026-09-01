@@ -85,32 +85,63 @@ I am a Computer Science student focused on backend development and problem-solvi
 ---
 
 <br/><br/>
-# Tech Stack & Current Learning
+<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./Skills_Animation_Dark.gif"
-  />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:7C3AED,100:0f0c29&height=3&animation=twinkling" width="100%"/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./Skills_Animation_Light.gif"
-  />
+# Tech Stack & Current Learning
 
-  <img
-    width="100%"
-    alt="Animated Tech Stack"
-    src="./Skills_Animation_Dark.gif"
-  />
+<br>
 
-</picture>
+<img 
+  src="./Skills_Animation_Clear_Moving.gif"
+  alt="Animated Tech Stack"
+  width="100%"
+/>
+
+<br><br>
+
+### Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Backend_Development-Java_%7C_Spring_Boot-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-DSA-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-Real_World_Projects-8B5CF6?style=for-the-badge"/>
+</p>
 
 </div>
 
+<br>
+
+<h3>Currently Learning</h3>
+
+<ul>
+  <li>Building backend applications with Java and Spring Boot</li>
+  <li>Strengthening Data Structures and Algorithms</li>
+  <li>Learning how real-world backend systems are designed</li>
+  <li>Improving problem-solving and clean coding skills</li>
+  <li>Exploring creative tools and video editing alongside development</li>
+</ul>
+
+<h3>Goals</h3>
+
+<ul>
+  <li>Become confident in backend development and system design fundamentals</li>
+  <li>Build strong real-world projects using Spring Boot</li>
+  <li>Stay consistent with DSA and problem-solving</li>
+  <li>Contribute to open-source projects</li>
+  <li>Keep improving as a well-rounded software developer</li>
+</ul>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:7C3AED,100:302b63&height=3&animation=twinkling" width="100%"/>
+
 </div>
+
+<!-- ================== END TECH STACK ================== -->
 
 ### Languages
 
