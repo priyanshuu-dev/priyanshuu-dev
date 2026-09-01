@@ -196,7 +196,6 @@ alt="Most Commit Language"
 ---
 
 <br/><br/>
-
 # Contribution Activity
 
 <div align="center">
@@ -207,31 +206,7 @@ alt="GitHub Contribution Snake Animation"
 />
 
 </div>
-# DSA Practice
 
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/priyanshuu-dev/DSA-PRACTICE">
-
-<img
-src="https://img.shields.io/badge/View_My_DSA_Practice-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-/>
-
-</a>
-
-<br/><br/>
-
-Consistently practicing problem-solving and strengthening core Data Structures and Algorithms concepts.
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
 
 # LeetCode
 
