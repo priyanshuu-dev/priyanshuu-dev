@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&animation=fadeIn&text=Priyanshu&fontColor=A78BFA&fontSize=60&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Priyanshu;Computer+Science+Student;Data+Engineering+Enthusiast;Backend+Developer;Python+%7C+SQL+%7C+DSA;Learning+One+Algorithm+at+a+Time"/>
-
-<h3>Learning, building, and growing into a better Software Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Data+Engineering+Enthusiast;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+SQL;Learning+One+Algorithm+at+a+Time"/>
 
 <p>
 <img src="https://img.shields.io/badge/B.Tech-Computer_Science-7C3AED?style=flat-square&logo=academia"/>
@@ -21,16 +19,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuu-dev&label=Profile%20views&color=770677&style=for-the-badge&logo=star"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
 
----
+</div>
 
 ## About Me
 
 <p align="left">I am a Computer Science student focused on Data Engineering, Backend Development, and Data Structures & Algorithms. I'm currently strengthening my fundamentals, building real-world projects, and sharpening my problem-solving skills with the goal of becoming a well-rounded Software Engineer.</p>
 
 - Passionate about backend systems and data pipelines
-- Currently deepening my knowledge of Python, SQL, and DSA
+- Currently deepening my knowledge of Java, Spring Boot, Python, and SQL
 - Building real-world projects to apply what I learn
 - Interested in open-source contributions
 - Actively practicing problem-solving on LeetCode
@@ -42,43 +40,54 @@
 - Data Engineering Opportunities
 - Open Source Contributions
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
+</div>
 
 ## Tech Stack & Current Learning
 
-### Languages
-<p align="center">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Languages"/>
+<br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark"/>
-</p>
 
-### Frontend
-<p align="center">
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%26+Frameworks"/>
+<br>
+<img src="https://skillicons.dev/icons?i=spring,flask,django&theme=dark"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend"/>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-</p>
 
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,django&theme=dark"/>
-</p>
+<br><br>
 
-### Databases
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Databases"/>
+<br>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
-</p>
 
-### Tools
-<p align="center">
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Tools"/>
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-</p>
+
+</div>
 
 <h3 align="left">Goals</h3>
 <ul align="left">
-  <li>Gain deeper confidence in backend development and databases</li>
+  <li>Gain deeper confidence in backend development with Spring Boot</li>
   <li>Build production-grade data engineering projects</li>
   <li>Keep solving DSA problems consistently and improve rank</li>
 </ul>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
+</div>
 
 ## GitHub Stats
 
@@ -97,29 +106,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-d
 
 </div>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/priyanshuu-dev">
-    <img src="https://github-profile-trophy-one-liart.vercel.app/?username=priyanshuu-dev&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
-## Contribution Snake
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/priyanshuu-dev/priyanshuu-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
 </div>
-
-> This animated snake "eats" your contribution graph and updates automatically. It needs a one-time GitHub Actions setup in your profile repo — see the setup note at the bottom of this file.
-
----
 
 ## LeetCode Journey
 
@@ -145,7 +134,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-d
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
+</div>
 
 ## Contribution Graph
 
@@ -153,15 +144,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-d
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuu-dev&theme=tokyo-night&hide_border=true"/>
 </div>
 
----
-
-## Thought of the Day
-
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&animation=twinkling" width="100%"/>
 </div>
-
----
 
 ## Connect With Me
 
@@ -180,19 +165,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuu-d
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+strong+foundations+in+Backend+%26+Data+Engineering;One+commit%2C+one+problem%2C+one+project+at+a+time"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
-
----
-
-### Setup note: enabling the contribution snake
-
-The snake animation isn't automatic on GitHub's side — it needs a small one-time setup in your profile repo (`priyanshuu-dev/priyanshuu-dev`):
-
-1. Create `.github/workflows/snake.yml` in that repo
-2. Paste in the standard `Platane/snk` action config (generates the SVG on a schedule)
-3. Commit — GitHub Actions will generate the snake SVG and push it to an `output` branch
-4. The `<img>` link above already points to that branch/file path
-
-If you'd rather skip this setup, I can swap that section back to something that works instantly (like an animated GIF banner or coding-activity widget) with no extra steps.
