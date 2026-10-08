@@ -2,8 +2,6 @@
   <img src="./github_banner_orange.png" width="100%">
 </div>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2500&pause=700&color=FF7A18&center=true&vCenter=true&width=900&height=60&lines=CODE+%E2%80%A2+LEARN+%E2%80%A2+BUILD+%E2%80%A2+REPEAT;Building+Backend+Systems;Java+%7C+Spring+Boot+%7C+DSA;Turning+Logic+Into+Projects" />
 
 <br><br>
