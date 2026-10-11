@@ -4,14 +4,14 @@
   <img src="./github_banner_orange.png" width="100%" alt="GitHub Banner"/>
 </div>
 
-I enjoy solving problems, learning how things work behind the scenes, and building projects with Java and Spring Boot. Currently focusing on backend development and DSA, with a habit of keeping my code and practice organized on GitHub.
+I enjoy solving problems and building projects. Currently working with Java and Spring Boot for backend development, while also practicing DSA and working with Python and SQL.
 
-## What I'm Learning
+## What I'm Working With
 
-- Java and Spring Boot
-- Data Structures and Algorithms
-- SQL and backend development
-- Building projects and learning through practice
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot, REST APIs
+- **Database:** MySQL
+- **Tools:** Git, GitHub
 
 ## Tech Stack
 
@@ -26,13 +26,10 @@ I enjoy solving problems, learning how things work behind the scenes, and buildi
 
 ## DSA Practice
 
-I keep my DSA solutions and practice problems in a separate repository.
+I maintain a separate repository for the DSA problems I solve and the concepts I practice.
 
 [DSA-PRACTICE](https://github.com/priyanshuu-dev/DSA-PRACTICE)
 
-## Find Me Here
+## Connect
 
-- [GitHub](https://github.com/priyanshuu-dev)
-- [LinkedIn](https://linkedin.com/in/priyanshu-raj-b44129309)
-- [LeetCode](https://leetcode.com/priyanshuusinghh)
-- [Email](mailto:rajrthp123@gmail.com)
+[GitHub](https://github.com/priyanshuu-dev) · [LinkedIn](https://linkedin.com/in/priyanshu-raj-b44129309) · [LeetCode](https://leetcode.com/priyanshuusinghh) · [Email](mailto:rajrthp123@gmail.com)
