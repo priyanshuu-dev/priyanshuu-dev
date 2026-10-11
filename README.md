@@ -4,7 +4,7 @@
   <img src="./github_banner_orange.png" width="100%" alt="GitHub Banner"/>
 </div>
 
-I'm a Computer Science student interested in backend development and problem-solving. Currently learning Java and Spring Boot, while practicing DSA and working on projects to improve my coding skills.
+I enjoy solving problems, learning how things work behind the scenes, and building projects with Java and Spring Boot. Currently focusing on backend development and DSA, with a habit of keeping my code and practice organized on GitHub.
 
 ## What I'm Learning
 
