@@ -1,8 +1,6 @@
 # Hi, I'm Priyanshu
 
-<div align="center">
-  <img src="./github_banner_orange.png" width="100%" alt="GitHub Banner"/>
-</div>
+
 
 I enjoy solving problems and building projects. Currently working with Java and Spring Boot for backend development, while also practicing DSA and working with Python and SQL.
 
